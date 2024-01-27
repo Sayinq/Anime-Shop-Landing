@@ -8,7 +8,7 @@ import Gallery from "./sections/Gallery";
 
 export default function Home() {
   return (
-    <main className="overflow-x-hidden">
+    <main className="bg-[#232325] overflow-x-hidden">
       <Hero />
       <Intro />
       <Shop />
